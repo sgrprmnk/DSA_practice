@@ -1,2 +1,2 @@
 # DSA_practice
-Target 100 Questions by 30 days
+Target: 100 Questions by 30 days
