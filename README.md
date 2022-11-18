@@ -26,3 +26,7 @@ Constraints:
 -104 <= ay1 <= ay2 <= 104
 -104 <= bx1 <= bx2 <= 104
 -104 <= by1 <= by2 <= 104
+================================
+2. An ugly number is a positive integer whose prime factors are limited to 2, 3, and 5.
+
+Given an integer n, return true if n is an ugly number.
